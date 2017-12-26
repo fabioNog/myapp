@@ -1,0 +1,22 @@
+{
+  "name": "myapp2",
+  "version": "1.0.0",
+  "description": "RestFull Tranning",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioNog"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "fabio nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
